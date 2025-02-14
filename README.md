@@ -9,9 +9,6 @@ This project demonstrates the usage of **Subversion (SVN)**, **Mercurial (HG)**,
 This repository contains the following files:
 - **Aaradhya_500108360_Assignment1_DevOps.pdf** - Detailed documentation with commands, explanations, and screenshots.
 - **README.md** - This file, explaining the project structure and usage.
-- **Screenshots/** - (If applicable) Screenshots of executed commands.
-- **demonstration_video.mp4** - (If applicable) Screen recording of the version control demonstration.
-
 ---
 
 ## **2. Demonstration of Version Control Systems**
